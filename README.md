@@ -9,4 +9,5 @@ To run the project, please follow the steps:
 
 ## Notebooks
 
-You can also run the notebook. To run the train notebook, please download and open "notebooks/Detection_of_formatting_style_from_user’s_code_using_ML_Test_Task.ipynb" and inference notebook "notebooks/Inference.ipynb"
+You can also run the notebook.
+To run the train notebook, please download and open "notebooks/Detection_of_formatting_style_from_user’s_code_using_ML_Test_Task.ipynb" and inference notebook "notebooks/Inference.ipynb"
