@@ -1,4 +1,4 @@
-streamlit~=1.39.0
-torch~=2.2.1
+streamlit~=1.36.0
+torch~=2.3.1
 sentencepiece~=0.2.0
-transformers~=4.33.1
+transformers~=4.42.3
